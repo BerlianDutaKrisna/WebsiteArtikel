@@ -1,5 +1,6 @@
 artikel
 - kebinanan
 - gizi
+- analis
 - konten lain
--bermacam penulis dari berbagai macam profesi
+
